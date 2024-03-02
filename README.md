@@ -17,6 +17,8 @@ This project aims to identify contributing variables to life expectancy in Chica
 
 Our investigation was inspired by models and features used in the County Health Rankings & Roadmaps program by the Robert Wood Johnson Foundation and the University of Wisconsin Population Health Institute. We further delved into the Social Determinants of Health as outlined by Healthy People 2030 to guide our feature selection process.
 
+![uw](background_uw.png)
+
 We obtained data from the CDC, ACS, and the Chicago Data portal. See below for more details
 
 
